@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Widget.PriceTextView">
+        <attr name="text_left" format="string" localization="suggested" />
+        <attr name="text" format="string" localization="suggested" />
+        <attr name="text_left_size" format="dimension" />
+        <attr name="text_center_size" format="dimension" />
+        <attr name="text_right_size" format="dimension" />
+        <attr name="text_left_color" format="reference|color" />
+        <attr name="text_center_color" format="reference|color" />
+        <attr name="text_right_color" format="reference|color" />
+        <attr name="left_fontFamily" format="string" />
+        <attr name="center_fontFamily" format="string" />
+        <attr name="right_fontFamily" format="string" />
+    </declare-styleable>
+</resources>
